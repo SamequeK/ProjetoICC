@@ -1,4 +1,4 @@
-# Rastramento do circular 
+# Rastreamento do circular 
 ## Requisitos funcionais 
 - calcular
 - desenvolver
