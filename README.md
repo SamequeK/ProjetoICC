@@ -1,11 +1,18 @@
 # Rastreamento do circular 🚍
 
 ## 1. Identificação do Problema ⚠️  : 
-Qual problema o software resolverá?
-Quais são os objetivos principais do sistema?
+### Qual problema o software resolverá? Será a solução para alunos da ufrpe que constante necessitam saber onde o circular está pra se locomover. 
+### Quais são os objetivos principais do sistema? 
+• Auxiliar na mobilidade universitaria
+• Mostrar a localização do circular em tempo real
+• facilitar a vida do universitário 
+
 ## 2. Partes Interessadas ❔ :
-Quem são os usuários finais do sistema?
-Quais outras partes serão impactadas pelo software?
+### Quem são os usuários finais do sistema?
+• Alunos da ufrpe 
+### Quais outras partes serão impactadas pelo software?
+A estrutura da ufrpe será auxiliada como um todo, visto que facilitara a locomoção dos estudantes as suas respectivas salas de aulas. 
+
 ## 3. Requisitos Funcionais  📲 :
 Quais funcionalidades o sistema deve oferecer?
 Descreva as principais ações que o usuário poderá realizar.
