@@ -1,16 +1,23 @@
 # Rastreamento do circular 🚍
 
 ## 1. Identificação do Problema ⚠️  : 
-### Qual problema o software resolverá? Será a solução para alunos da ufrpe que constante necessitam saber onde o circular está pra se locomover. 
+### Qual problema o software resolverá? 
+
+Será a solução para alunos da ufrpe que constante necessitam saber onde o circular está pra se locomover. 
+
 ### Quais são os objetivos principais do sistema? 
+
 • Auxiliar na mobilidade universitaria
 • Mostrar a localização do circular em tempo real
 • facilitar a vida do universitário 
 
 ## 2. Partes Interessadas ❔ :
 ### Quem são os usuários finais do sistema?
+
 • Alunos da ufrpe 
+
 ### Quais outras partes serão impactadas pelo software?
+
 A estrutura da ufrpe será auxiliada como um todo, visto que facilitara a locomoção dos estudantes as suas respectivas salas de aulas. 
 
 ## 3. Requisitos Funcionais  📲 :
@@ -42,4 +49,9 @@ Exemplo: Um animal, que depende do cliente (dono) para existir no sistema.
 - conexão
 - processamento
 - consumo de memória
+
+
+## link para visualização do disign do app: 
+
+https://www.canva.com/design/DAG3PY7oCSQ/Rshupfr7GeXcyBp-EvnkFA/edit?utm_content=DAG3PY7oCSQ&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
 
