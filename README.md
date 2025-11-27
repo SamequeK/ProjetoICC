@@ -28,7 +28,7 @@ O software será uma solução para os alunos da UFRPE que constantemente precis
 
 ### **Quais outras partes serão impactadas?**
 
-* A própria estrutura da UFRPE, pois o sistema melhora a organização da locomoção e reduz atrasos dos estudantes nas aulas, e o corpo docente pois facilitaria a locomoção entre os prédios e departamentos.
+* A própria estrutura da UFRPE, pois o sistema melhora a organização da locomoção e reduz atrasos dos estudantes nas aulas, além dos funcionários incluindo os próprios professores que se deslocam entre os departamentos constantemente.
 
 ---
 
@@ -76,7 +76,7 @@ Condições sobre desempenho, qualidade e ambiente do sistema:
 * **Tela do mapa:** mostra circular em tempo real, rota e pontos.
 * **Menu:** perfil do usuário, informações do campus, configuração.
 
-*(Você pode fazer um desenho simples à mão ou no Paint e anexar no documento.)*
+
 
 ---
 
