@@ -28,7 +28,7 @@ O software será uma solução para os alunos da UFRPE que constantemente precis
 
 ### **Quais outras partes serão impactadas?**
 
-* A própria estrutura da UFRPE, pois o sistema melhora a organização da locomoção e reduz atrasos dos estudantes nas aulas.
+* A própria estrutura da UFRPE, pois o sistema melhora a organização da locomoção e reduz atrasos dos estudantes nas aulas, e o corpo docente pois facilitaria a locomoção entre os prédios e departamentos.
 
 ---
 
